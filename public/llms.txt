@@ -12,8 +12,8 @@
 - Service businesses more broadly: professional services, real estate, and small and mid-sized companies.
 
 ## Background
-- Founder & CEO, Zift Solutions (now Unifyr) — channel marketing automation; venture-backed; grew to ~200 employees.
-- President, SmartPath — helped establish enterprise marketing management as a category; acquired by DoubleClick.
+- Co-founder & CEO, Zift Solutions (now Unifyr) — channel marketing automation; venture-backed; grew to ~200 employees.
+- Co-founder & President, SmartPath — helped establish enterprise marketing management as a category; acquired by DoubleClick.
 - Board of Directors, Entrinsik — Raleigh analytics and applications platform with AI-powered analytics.
 - Partner & Technical Lead, Unclaimed Credits — built the sales channel; secured ERC refunds for 600+ businesses.
 - Co-founder & CEO, VoteOwl — nonpartisan civic-technology platform.
