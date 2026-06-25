@@ -17,7 +17,7 @@
 - Board of Directors, Entrinsik — Raleigh analytics and applications platform with AI-powered analytics.
 - Partner & Technical Lead, Unclaimed Credits — built the sales channel; secured ERC refunds for 600+ businesses.
 - Co-founder & CEO, VoteOwl — nonpartisan civic-technology platform.
-- B.S. Operations Research (Engineering) and M.S. Computer Science, Cornell University.
+- B.S. Operations Research (Engineering) and M.Eng. Computer Science, Cornell University.
 - Based in Raleigh–Durham, North Carolina; serves the Triangle and remote.
 
 ## Note on identity
