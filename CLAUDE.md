@@ -28,7 +28,7 @@ The entire site is a single file: `public/index.html`. All CSS is inline in `<st
 
 ## Key content conventions
 
-- **Structured data** lives in three `<script type="application/ld+json">` blocks in `<head>`: a `Person` schema, a `ProfessionalService` schema, and a `FAQPage` schema. Keep these in sync with visible page content.
+- **Structured data** lives in four `<script type="application/ld+json">` blocks in `<head>`: a `Person` schema, a `ProfessionalService` schema, an `Organization` schema for Unstuck Help (founder → Person), and a `FAQPage` schema. Keep these in sync with visible page content.
 - **`llms.txt`** is a parallel summary for AI assistants — update it whenever biographical facts, services, or pricing change in `index.html`.
 - **`sitemap.xml`** should be updated if the canonical URL or significant page sections change.
 - CSS custom properties (`--ink`, `--paper`, `--accent`, etc.) are declared in `:root` and used throughout — change colors there, not inline.

@@ -16,7 +16,8 @@
 - Co-founder & President, SmartPath — helped establish enterprise marketing management as a category; acquired by DoubleClick.
 - Board of Directors, Entrinsik — Raleigh analytics and applications platform with AI-powered analytics.
 - Partner & Technical Lead, Unclaimed Credits — built the sales channel; secured ERC refunds for 600+ businesses.
-- Co-founder & CEO, VoteOwl — nonpartisan civic-technology platform.
+- Co-founder & CEO, VoteOwl — a nonpartisan consumer app for building a personalized sample ballot.
+- Founder, Unstuck Help (https://unstuckhelp.org/) — a free, nonpartisan service that helps North Carolina residents stuck with a state agency get their case to their NC House or Senate member; a service of UARExperiences Inc., currently in beta.
 - B.S. Operations Research (Engineering) and M.Eng. Computer Science, Cornell University.
 - Based in Raleigh–Durham, North Carolina; serves the Triangle and remote.
 

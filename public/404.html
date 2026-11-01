@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Page not found — Ken Romley</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap"
+    />
+    <style>
+      :root {
+        --ink: #17181a;
+        --paper: #f5f4ef;
+        --line: #dad8cf;
+        --accent: #0e5a6b;
+        --accent-deep: #0a4452;
+        --muted: #6b6b63;
+        --display:
+          "Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        --body: "Newsreader", Georgia, "Times New Roman", serif;
+        --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background: var(--paper);
+        color: var(--ink);
+        font-family: var(--body);
+        font-size: 18px;
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        display: flex;
+        min-height: 100vh;
+        align-items: center;
+        justify-content: center;
+        padding: 32px 24px;
+      }
+      main {
+        max-width: 560px;
+        width: 100%;
+      }
+      .eyebrow {
+        font-family: var(--mono);
+        font-size: 12px;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin: 0 0 18px;
+      }
+      h1 {
+        font-family: var(--display);
+        font-weight: 700;
+        font-size: clamp(30px, 5.2vw, 44px);
+        line-height: 1.12;
+        letter-spacing: -0.02em;
+        margin: 0 0 20px;
+      }
+      p {
+        margin: 0 0 18px;
+        color: #35363a;
+      }
+      .rule {
+        border: 0;
+        border-top: 1px solid var(--line);
+        margin: 30px 0 26px;
+      }
+      .cta {
+        font-family: var(--display);
+        font-weight: 600;
+        font-size: 15px;
+        letter-spacing: 0.01em;
+        display: inline-block;
+        text-decoration: none;
+        color: #fff;
+        background: var(--accent);
+        padding: 13px 22px;
+        border-radius: 3px;
+      }
+      .cta:hover {
+        background: var(--accent-deep);
+      }
+      .alt {
+        font-family: var(--display);
+        font-size: 14px;
+        color: var(--muted);
+        margin: 22px 0 0;
+      }
+      .alt a {
+        color: var(--accent);
+        text-decoration: none;
+        border-bottom: 1px solid var(--line);
+      }
+      .alt a:hover {
+        border-bottom-color: var(--accent);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <p class="eyebrow">404 &middot; Page not found</p>
+      <h1>That page isn&rsquo;t here anymore.</h1>
+      <p>
+        You&rsquo;ve reached kenromley.com. I&rsquo;m Ken Romley &mdash; a
+        Fractional Chief AI Officer and four-time software founder based in
+        Raleigh&ndash;Durham. The link you followed points at a page that
+        no longer exists, most likely an old one still sitting in a search
+        index.
+      </p>
+      <p>Everything current lives on the home page.</p>
+      <hr class="rule" />
+      <a class="cta" href="/">Go to kenromley.com &nbsp;&rarr;</a>
+      <p class="alt">
+        Or reach me directly at
+        <a href="mailto:ken@kenromley.com">ken@kenromley.com</a>.
+      </p>
+    </main>
+  </body>
+</html>
